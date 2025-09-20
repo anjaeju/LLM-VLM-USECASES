@@ -1,8 +1,8 @@
 <h1 align="center"> LLM & VLM USE-CASES </h1>
 <p align="center"><b>This repository includes jupyter notebook and script for applying LLM/VLM for various usages.</b></p>
-<p align="center"><b>Linkedin: https://www.linkedin.com/in/anjaeju/</b></p>
-<p align="center"><b>Contact: anjaeju@gmail.com</b></p>
-
+<sub>
+  <p align="center"><b>Contact: anjaeju@gmail.com or </b> <a href="https://www.linkedin.com/in/anjaeju/" target="_blank">LinkedIn</a> </p>
+</sub>
 
 ### About
 - A curated List of APIs, tools, frameworks, and educational resources with my own use-cases (or tutorials).
