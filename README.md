@@ -11,4 +11,4 @@
 - Designed for both technical and non-technical users.
 
 ### List of use-cases & tutorials
-1. List of VLM APIs (Link)
+- Status of VLM APIs [Link](./vlm-models/)
